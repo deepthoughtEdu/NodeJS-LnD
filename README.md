@@ -13,8 +13,8 @@ Make sure you have the following installed on your system:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/deepthoughtEdu/backend-base.git
-   cd backend-base
+   git clone https://github.com/deepthoughtEdu/NodeJS-LnD.git
+   cd NodeJS-LnD
    ```
 
 2. **Create the Configuration File:**
@@ -25,7 +25,7 @@ Make sure you have the following installed on your system:
        "port": 3000,
        "env": "<Development_Environment>", // Can be either "development" or "production"
        "mongoUri": "<Your_MongoDB_Connection_String>",
-       "database": "backend-base",
+       "database": "NodeJS-LnD",
        "cookieSecret": "<Cookie_Secret_String>"
    }
    ```
